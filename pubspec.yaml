@@ -1,8 +1,8 @@
 name: rupiah
-description: Convert to rupiah
+description: Convert to rupiah "Rp XX.XXX.XXX"
 version: 0.0.1
-author:
-homepage:
+author: Yuda Prama <yudapramad@gmail.com>
+homepage: https://github.com/yudaprama/rupiah.dart
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
